@@ -1,2 +1,1 @@
-"This is my first Git project." 
-"Feature update completed." 
+Git Notes - Version Control Basics
